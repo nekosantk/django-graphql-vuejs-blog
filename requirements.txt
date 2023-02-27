@@ -1,0 +1,4 @@
+Django==4.1.7
+graphene-django==2.14.0
+django-cors-headers==3.6.0
+python-dotenv==1.0.0
